@@ -226,6 +226,6 @@ like if it's only points
 
 because you can do that with leveldb
 
-but that is a different talk
+but that was a different talk
 
-FIN
+http://calvinmetcalf.github.io/gis-node-js
