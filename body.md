@@ -10,6 +10,8 @@ my name is *calvin*
 
 follow along at home http://calvinmetcalf.github.io/gis-node-js
 
+~if~ when I go to fast don't hesitate to ask a question
+
 what is *node*?
 
 in *python* terms
