@@ -38,7 +38,7 @@ yes but why?
 
 i'm not going to wait, call me back
 
-good for iobound stuff
+good for *iobound* stuff
 
 like servers
 
@@ -46,19 +46,17 @@ or http requests
 
 or reading files
 
-*backends*
-
-(by request)
+backends
 
 *postgres*
 
-some great adapters (knex, pg.js)
+some great adapters (*knex*, *pg.js*)
 
-the best sql database
+the best *sql* database
 
 also for querying
 
-the best json database
+the best *json* database
 
 *levelup*
 
@@ -90,33 +88,14 @@ master <-> master replication
 
 multiple backends
 
-couchdb (or cloudant) on the server
-
 leveldb on node
 
 websql/indexedDB in browser
 
-*who*
+*couchdb* (or *cloudant*) on the server
 
-*mapbox*
+or run it on the server
 
-tilemill
-
-turf
-
-*the new york times*
-
-topojson
-
-d3
-
-*esri*
-
-koop
-
-*appgeo*
-
-(thats my company)
 
 *what*
 
